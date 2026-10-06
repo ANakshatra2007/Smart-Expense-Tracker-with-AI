@@ -1,3 +1,4 @@
+
 **# Smart Expense Tracker with AI**
 **## Project Description**
 
@@ -107,3 +108,5 @@ Never share your API key publicly.
 Smart Expense Tracker with AI provides a simple way to record expenses, monitor a monthly budget, understand spending patterns, and receive AI-based saving suggestions.
 
 The project combines Python, Streamlit, SQLite, and Google Gemini AI to create a practical and user-friendly expense management application.
+# Smart-Expense-Tracker-with-AI
+An AI-powered expense tracking web application built with Python, Streamlit, SQLite, and Google Gemini AI to manage daily expenses, track budgets, visualize spending, and generate smart saving suggestions.
